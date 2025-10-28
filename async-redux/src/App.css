@@ -1,0 +1,98 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    color: #333;
+}
+
+.form {
+    margin-bottom: 20px;
+}
+
+input {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    width: calc(50% - 22px); /* Adjust width to fit within the form */
+}
+
+input[type="text"] {
+    width: calc(50% - 22px); /* Adjust width to fit within the form */
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button:active {
+    filter: opacity(90%);
+}
+
+.contact-list {
+    list-style: none;
+    padding: 0;
+}
+
+.contact-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+.contact-list span {
+    font-size: 16px;
+}
+
+.contact-list button {
+    background-color: #dc3545;
+    font-size: 14px;
+}
+
+.contact-list button:hover {
+    background-color: #c82333;
+}
+
+p {
+    color: #dc3545; /* Error color */
+}
+
+.add-contact-button {
+    margin-top: 1rem;
+}
+
+.info {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+.info button {
+    margin-left: 1rem;
+}
+
+.info-last-action {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}

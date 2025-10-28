@@ -1,0 +1,20 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.timer {
+    margin-top: 20px;
+}
+
+.time {
+    font-size: 48px;
+    margin: 20px 0;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
