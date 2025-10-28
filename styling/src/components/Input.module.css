@@ -1,0 +1,16 @@
+.input-module {
+    border-width: 1px;
+    border-color: #d1d5db;
+    padding: 0.5rem;
+    margin-top: 0.25rem;
+    border-radius: 0.125rem;
+}
+.input-module:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #6875f5;
+}
+.label-module {
+    display: block;
+    font-size: 0.875rem;
+    color: #4b5563;
+}

@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <header
+      class="App-header"
+    >
+      <h1>
+        Empower Your Journey with Our Solutions
+      </h1>
+      <p>
+        Discover tools and services designed to streamline your life.
+      </p>
+      <button>
+        Open Menu
+      </button>
+    </header>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App should match snapshot after openning a menu 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <header
+      class="App-header"
+    >
+      <h1>
+        Empower Your Journey with Our Solutions
+      </h1>
+      <p>
+        Discover tools and services designed to streamline your life.
+      </p>
+      <button>
+        Close Menu
+      </button>
+      <nav
+        class="App-menu"
+      >
+        <ul>
+          <li>
+            <a
+              href="#home"
+            >
+              Home
+            </a>
+          </li>
+          <li>
+            <a
+              href="#about"
+            >
+              About Us
+            </a>
+          </li>
+          <li>
+            <a
+              href="#services"
+            >
+              Our Services
+            </a>
+          </li>
+          <li>
+            <a
+              href="#contact"
+            >
+              Contact Us
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+  </div>
+</DocumentFragment>
+`;
