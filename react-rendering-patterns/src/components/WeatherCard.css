@@ -1,0 +1,27 @@
+.weather-card {
+    background-color: #f0f4f8;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.weather-card .location-name {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.weather-card .temperature {
+    font-size: 2em;
+    color: #ff8c00;
+    margin-bottom: 10px;
+}
+
+.weather-card .description {
+    font-size: 1em;
+    color: #555;
+}
