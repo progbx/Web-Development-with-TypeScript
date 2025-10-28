@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="junit test results" tests="21" failures="0" errors="0" time="9.123">
+  <testsuite name="React Router" errors="0" failures="0" skipped="0" timestamp="2025-10-11T17:50:34" time="6.12" tests="21">
+    <testcase classname="React Router App component should have a navigation bar with links" name="React Router App component should have a navigation bar with links" time="0.398">
+    </testcase>
+    <testcase classname="React Router App component should have links to &quot;Home&quot;, &quot;About&quot; and &quot;Gallery&quot;" name="React Router App component should have links to &quot;Home&quot;, &quot;About&quot; and &quot;Gallery&quot;" time="0.039">
+    </testcase>
+    <testcase classname="React Router App component link paths should be correct" name="React Router App component link paths should be correct" time="0.028">
+    </testcase>
+    <testcase classname="React Router Home component should render Home component correctly" name="React Router Home component should render Home component correctly" time="0.027">
+    </testcase>
+    <testcase classname="React Router Home component should use &lt;h1&gt; tag for heading" name="React Router Home component should use &lt;h1&gt; tag for heading" time="0.014">
+    </testcase>
+    <testcase classname="React Router Home component should contain &lt;h1&gt; element with text &apos;Welcome to our website!&apos;" name="React Router Home component should contain &lt;h1&gt; element with text &apos;Welcome to our website!&apos;" time="0.011">
+    </testcase>
+    <testcase classname="React Router About component should render About component correctly" name="React Router About component should render About component correctly" time="0.01">
+    </testcase>
+    <testcase classname="React Router About component should use &lt;h1&gt; tag for heading" name="React Router About component should use &lt;h1&gt; tag for heading" time="0.01">
+    </testcase>
+    <testcase classname="React Router About component should contain &lt;h1&gt; element with text &apos;Learn more about us&apos;" name="React Router About component should contain &lt;h1&gt; element with text &apos;Learn more about us&apos;" time="0.013">
+    </testcase>
+    <testcase classname="React Router Gallery component should render Gallery component correctly" name="React Router Gallery component should render Gallery component correctly" time="0.023">
+    </testcase>
+    <testcase classname="React Router Gallery component should use &lt;h1&gt; tag for heading" name="React Router Gallery component should use &lt;h1&gt; tag for heading" time="0.019">
+    </testcase>
+    <testcase classname="React Router Gallery component should contain &lt;h1&gt; element with text &apos;Our Photo catalog&apos;" name="React Router Gallery component should contain &lt;h1&gt; element with text &apos;Our Photo catalog&apos;" time="0.019">
+    </testcase>
+    <testcase classname="React Router NotFound component should render NotFound component correctly" name="React Router NotFound component should render NotFound component correctly" time="0.009">
+    </testcase>
+    <testcase classname="React Router NotFound component should use &lt;h1&gt; tag for heading" name="React Router NotFound component should use &lt;h1&gt; tag for heading" time="0.008">
+    </testcase>
+    <testcase classname="React Router NotFound component should contain &lt;h1&gt; element with text &apos;404: The page you are looking for cannot be found&apos;" name="React Router NotFound component should contain &lt;h1&gt; element with text &apos;404: The page you are looking for cannot be found&apos;" time="0.011">
+    </testcase>
+    <testcase classname="React Router Navigation home page content appears for default route" name="React Router Navigation home page content appears for default route" time="0.012">
+    </testcase>
+    <testcase classname="React Router Navigation clicking Home link changes path and component" name="React Router Navigation clicking Home link changes path and component" time="0.102">
+    </testcase>
+    <testcase classname="React Router Navigation clicking About link changes path and component" name="React Router Navigation clicking About link changes path and component" time="0.076">
+    </testcase>
+    <testcase classname="React Router Navigation clicking Gallery link changes path and component" name="React Router Navigation clicking Gallery link changes path and component" time="0.11">
+    </testcase>
+    <testcase classname="React Router Navigation clicking Photo link in Gallery page changes path and component" name="React Router Navigation clicking Photo link in Gallery page changes path and component" time="0.157">
+    </testcase>
+    <testcase classname="React Router Navigation invalid path redirects to NotFound component" name="React Router Navigation invalid path redirects to NotFound component" time="0.022">
+    </testcase>
+  </testsuite>
+</testsuites>
