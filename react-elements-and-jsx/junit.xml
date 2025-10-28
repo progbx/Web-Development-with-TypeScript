@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="junit test results" tests="11" failures="0" errors="0" time="10.635">
+  <testsuite name="React Elements &amp; JSX" errors="0" failures="0" skipped="0" timestamp="2025-09-29T09:25:07" time="4.765" tests="10">
+    <testcase classname="React Elements &amp; JSX Heading should create heading" name="React Elements &amp; JSX Heading should create heading" time="0.218">
+    </testcase>
+    <testcase classname="React Elements &amp; JSX Heading should use &lt;h1&gt; tag for heading" name="React Elements &amp; JSX Heading should use &lt;h1&gt; tag for heading" time="0.032">
+    </testcase>
+    <testcase classname="React Elements &amp; JSX Heading should use React.createElement for the element" name="React Elements &amp; JSX Heading should use React.createElement for the element" time="0.015">
+    </testcase>
+    <testcase classname="React Elements &amp; JSX Heading should have correct text in heading" name="React Elements &amp; JSX Heading should have correct text in heading" time="0.031">
+    </testcase>
+    <testcase classname="React Elements &amp; JSX Heading should add styles to heading" name="React Elements &amp; JSX Heading should add styles to heading" time="0.035">
+    </testcase>
+    <testcase classname="React Elements &amp; JSX List should have a list of planets" name="React Elements &amp; JSX List should have a list of planets" time="0.042">
+    </testcase>
+    <testcase classname="React Elements &amp; JSX List should display all expected planets in the list" name="React Elements &amp; JSX List should display all expected planets in the list" time="0.067">
+    </testcase>
+    <testcase classname="React Elements &amp; JSX List should display all expected planets names correctly" name="React Elements &amp; JSX List should display all expected planets names correctly" time="0.04">
+    </testcase>
+    <testcase classname="React Elements &amp; JSX List should add an expected class name" name="React Elements &amp; JSX List should add an expected class name" time="0.034">
+    </testcase>
+    <testcase classname="React Elements &amp; JSX List added class name should apply expected styles" name="React Elements &amp; JSX List added class name should apply expected styles" time="0.014">
+    </testcase>
+  </testsuite>
+  <testsuite name="main.tsx" errors="0" failures="0" skipped="0" timestamp="2025-09-29T09:25:07" time="7.004" tests="1">
+    <testcase classname="main.tsx should render &lt;App&gt; inside the root" name="main.tsx should render &lt;App&gt; inside the root" time="3.206">
+    </testcase>
+  </testsuite>
+</testsuites>
